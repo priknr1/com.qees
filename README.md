@@ -18,8 +18,9 @@ If you like the work, please help me buy a stroller for my future kid :D
 * Dutch (Nederlands)
 
 
-#Changelog:
-*0.0.1
+# Changelog:
+* 0.0.1
+
 Initial version
 support for P313B - Plugin dimmer
 
