@@ -3,7 +3,7 @@
     "name": {
         "en": "Qees"
     },
-    "version": "0.0.1",
+    "version": "0.1.0",
     "compatibility": ">=1.1.0",
     "description": {
         "en": "Qees devices for Homey",

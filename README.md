@@ -19,6 +19,10 @@ If you like the work, please help me buy a stroller for my future kid :D
 
 
 # Changelog:
+
+* 0.1.0
+Local OnOff feedback working on P313B
+
 * 0.0.1
 
 Initial version
