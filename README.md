@@ -12,6 +12,8 @@ If you like the work, please help me buy a stroller for my future kid :D
 
 # Currently supported devices:
 * P313B - Plugin dimmer
+* P313A - Plugin switch
+* Shell dimmer
 
 # Currently supported languages:
 * English
@@ -19,6 +21,11 @@ If you like the work, please help me buy a stroller for my future kid :D
 
 
 # Changelog:
+
+
+* 0.1.1
+SDK2 rewrite
+Added device shell
 
 * 0.1.0
 Local OnOff feedback working on P313B
