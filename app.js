@@ -1,5 +1,12 @@
-"use strict";
+'use strict';
 
-module.exports.init = function() {
-	Homey.log("com.qees	running...");
+const Homey = require('homey');
+
+class Qees extends Homey.App {
+
+	onInit() {
+
+		this.log('Hank Z-wave app is running...');
+	}
 }
+module.exports = Qees;
